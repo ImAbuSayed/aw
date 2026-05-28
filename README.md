@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aw/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Aw](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aw/) |
+| **Get License** | [Request Licensing for Aw](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aw/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ছায়া হয়ে থাকবো আমি তোমার ঐ পাশে,
+> বৃষ্টি হয়ে ঝরবো আমি তোমার আকাশে।
+> আধারে লুকিয়ে দেখো আমি আছি সেই খানে,
+> অচেনা সুরেতে আজ আমি তোমার গানে।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
