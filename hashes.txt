@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aw
+
+This log tracks the cryptographic history and versioning for the song **Aw** (aw).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T14:52:04.974661 | `v1` | `ee3282cc290b06e4ba031770b04e79d3d0687fe19362cec83e0a1d45c678b8d1` | `246c8953539e335921f14c17f2437aab25972d820ff9c1af4679fcf1eba1aea1` | `2026-05-28_aw-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

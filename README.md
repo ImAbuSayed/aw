@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aw/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Aw](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aw/) |
+| **Get License** | [Music Rights & Licensing for Aw](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aw/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ee3282cc290b06e4ba031770b04e79d3d0687fe19362cec83e0a1d45c678b8d1` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
